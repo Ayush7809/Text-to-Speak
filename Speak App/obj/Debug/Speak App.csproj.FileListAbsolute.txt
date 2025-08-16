@@ -1,0 +1,11 @@
+C:\Users\Ayush\source\repos\Speak App\Speak App\bin\Debug\Speak App.exe.config
+C:\Users\Ayush\source\repos\Speak App\Speak App\bin\Debug\Speak App.exe
+C:\Users\Ayush\source\repos\Speak App\Speak App\bin\Debug\Speak App.pdb
+C:\Users\Ayush\source\repos\Speak App\Speak App\obj\Debug\Speak App.csproj.AssemblyReference.cache
+C:\Users\Ayush\source\repos\Speak App\Speak App\obj\Debug\Speak_App.Form1.resources
+C:\Users\Ayush\source\repos\Speak App\Speak App\obj\Debug\Speak_App.Properties.Resources.resources
+C:\Users\Ayush\source\repos\Speak App\Speak App\obj\Debug\Speak App.csproj.GenerateResource.cache
+C:\Users\Ayush\source\repos\Speak App\Speak App\obj\Debug\Speak App.csproj.CoreCompileInputs.cache
+C:\Users\Ayush\source\repos\Speak App\Speak App\obj\Debug\Speak App.exe
+C:\Users\Ayush\source\repos\Speak App\Speak App\obj\Debug\Speak App.pdb
+C:\Users\Ayush\source\repos\Speak App\Speak App\obj\Debug\Speak App.exe.config

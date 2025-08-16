@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ayush\\source\\repos\\Speak App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B937B59-7ECA-4AC0-AFAA-B46404743E15}|Speak App\\Speak App.csproj|c:\\users\\ayush\\source\\repos\\speak app\\speak app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B937B59-7ECA-4AC0-AFAA-B46404743E15}|Speak App\\Speak App.csproj|solutionrelative:speak app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B937B59-7ECA-4AC0-AFAA-B46404743E15}|Speak App\\Speak App.csproj|c:\\users\\ayush\\source\\repos\\speak app\\speak app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1B937B59-7ECA-4AC0-AFAA-B46404743E15}|Speak App\\Speak App.csproj|solutionrelative:speak app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Ayush\\source\\repos\\Speak App\\Speak App\\Form1.cs",
+              "RelativeDocumentMoniker": "Speak App\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ayush\\source\\repos\\Speak App\\Speak App\\Form1.cs*",
+              "RelativeToolTip": "Speak App\\Form1.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:17:30.271Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ayush\\source\\repos\\Speak App\\Speak App\\Form1.cs",
+              "RelativeDocumentMoniker": "Speak App\\Form1.cs",
+              "ToolTip": "C:\\Users\\Ayush\\source\\repos\\Speak App\\Speak App\\Form1.cs [Design]*",
+              "RelativeToolTip": "Speak App\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:09:46.615Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
